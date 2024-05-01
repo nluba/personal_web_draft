@@ -1,7 +1,7 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'NIL Draft site'
+site_description: 'Training'
+site_author: NIL
+site_url: https://github.com/nluba/personal_web_draft/
 
 # Repository
 repo_name: Postdoc_OASIS
